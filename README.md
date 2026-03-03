@@ -24,6 +24,8 @@ Or keep it all on a single line if you're on a phone where you can't enter new l
 
 .001ac924 24.001ac925 42.001ac926 D8.001ac927 01
 
+The use of the period also makes life slightly easier when punching in patches on T9 based phones. (It's almost always the first symbol to show up under the "1" key.)
+
 On a few phones (namely the LG VX10000) you can write to memory mapped hardware registers using this program. Example:
 
 .8000006C 06
